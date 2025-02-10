@@ -1,6 +1,7 @@
 [submodule "go-ethereum"]
 	path = go-ethereum
 	url = https://github.com/baixuexue123/go-ethereum-arbitrum.git
+	branch = dev-v3.5.0-2
 [submodule "fastcache"]
 	path = fastcache
 	url = https://github.com/OffchainLabs/fastcache.git
